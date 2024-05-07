@@ -9,8 +9,8 @@ ext{
             compileSdkVersion : 33,
             minSdkVersion : 24,
             targetSdkVersion : 29,
-            versionCode : 107,//线上发包一次修改一 次，测试阶段不修改
-            versionName : "999.9.9"
+            versionCode : 1,
+            versionName : "1.0"
     ]
 
     //版本号
@@ -24,7 +24,6 @@ ext{
             junit:"4.13.2",
             robolectric:"4.8",
             mockito:"4.9.0",
-            hamcrest:"2.2",
             androidxCore:"1.5.0",
             androidxExtJunit:"1.1.4",
             espresso:"3.5.0",
@@ -43,11 +42,6 @@ ext{
             constraintlayoutVersion:"2.1.3",
             brvah:"3.0.4",
             work_version:"2.7.1",
-            materialDialogs:"3.3.0",
-            exoplayer:"2.18.4",
-            blurView:"1.0.5",
-            hxImage:"1.0.5",
-            zxing:"3.5.0"
     ]
 
     //依赖库
@@ -58,8 +52,6 @@ ext{
             androidxAppcompat: "androidx.appcompat:appcompat:1.3.1",
             androidxFragment: "androidx.fragment:fragment:1.3.1",
             material: 'com.google.android.material:material:1.3.0',
-            wheelPicker: "com.github.gzu-liyujiang.AndroidPicker:WheelPicker:$versions.androidPicker",
-            pickerCommon: "com.github.gzu-liyujiang.AndroidPicker:Common:$versions.androidPicker",
             lifecycleScope   : 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1',
             okhttpBom: "com.squareup.okhttp3:okhttp-bom:4.10.0",
             okhttp: "com.squareup.okhttp3:okhttp",
@@ -78,32 +70,20 @@ ext{
             glideCompiler: "com.github.bumptech.glide:compiler:$versions.glide",
             gson: "com.google.code.gson:gson:2.8.6",
             leakcanary:"com.squareup.leakcanary:leakcanary-android:$versions.leakcanary",
-            bannerViewPager:"com.github.zhpanvip:bannerviewpager:3.5.11",
             koomFastDump:"com.kuaishou.koom:koom-fast-dump:$versions.koomVersion",
             koomAndroidBase:"com.kuaishou.koom:kwai-android-base:$versions.koomVersion",
             koomMonitorBase:"com.kuaishou.koom:koom-monitor-base:$versions.koomVersion",
-            routerCore:"com.sankuai.waimai.router:router:1.1.2",
-            routerCompiler: "com.sankuai.waimai.router:compiler:1.1.2",
             blankj:"com.blankj:utilcode:$versions.blankj",
             constraintlayout: "androidx.constraintlayout:constraintlayout:$versions.constraintlayoutVersion",
             rxJava2: "io.reactivex.rxjava2:rxjava:2.2.21",
             rxJava2Android: "io.reactivex.rxjava2:rxandroid:2.1.1",
-            hjqToast: "com.hjq:toast:8.8",
             viewpager2: "androidx.viewpager2:viewpager2:1.0.0",
             BaseRecyclerViewAdapterHelper: "com.github.CymChad:BaseRecyclerViewAdapterHelper:$versions.brvah",
             lottie: 'com.airbnb.android:lottie:6.0.1',
             workRuntimeKtx: "androidx.work:work-runtime-ktx:$versions.work_version",
             workMultiprocess: "androidx.work:work-multiprocess:$versions.work_version",
             workRxjava2: "androidx.work:work-rxjava2:$versions.work_version",
-            autosize: "me.jessyan:autosize:1.2.1",
-            androidGifDrawble: "pl.droidsonroids.gif:android-gif-drawable:1.2.25",
             recyclerView: 'androidx.recyclerview:recyclerview:1.2.1',
-            XToast: "com.github.getActivity:XToast:8.5",
-            MPAndroidChart: "com.github.Philjay:MPAndroidChart:3.1.0",
-            FlycoTabLayout: "com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2",
-            refreshLayoutKernel: "com.scwang.smart:refresh-layout-kernel:2.0.3",
-            refreshFooterClassics: "com.scwang.smart:refresh-footer-classics:2.0.3",
-            wheelview: "com.contrarywind:wheelview:4.1.0",
     ]
 
     testDependencies = [
