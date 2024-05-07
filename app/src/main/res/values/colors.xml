@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_home_storage_theme_p1">#EFEFEF</color>
+    <color name="color_home_storage_theme_p2">#BDC7D4</color>
+    <color name="color_home_storage_theme_p3">#FFFFFF</color>
+
+    <color name="color_home_storage_theme_l1">#EFEFEF</color>
+    <color name="color_home_storage_theme_l2">#DCDFE5</color>
+
+    <color name="color_home_storage_theme_f1">#FFFFFF</color>
+    <color name="color_home_storage_theme_f2">#FAFBFB</color>
+    <color name="color_home_storage_theme_f3">#F6F8FA</color>
+    <color name="color_home_storage_theme_f4">#F6FCFC</color>
+    <color name="color_home_storage_theme_f5">#FFF7F7</color>
+    <color name="color_home_storage_theme_f6">#FFF8EC</color>
+    <color name="color_home_storage_theme_f7">#F7FBFE</color>
+    <color name="color_home_storage_theme_f8">#F5F7F9</color>
+
+    <color name="color_home_storage_theme_t1">#141E3D</color>
+    <color name="color_home_storage_theme_t2">#B3141E3D</color>
+    <color name="color_home_storage_theme_t3">#80141E3D</color>
+    <color name="color_home_storage_theme_t4">#66141E3D</color>
+    <color name="color_home_storage_theme_t5">#33141E3D</color>
+    <color name="color_home_storage_theme_t6">#FFFFFF</color>
+    <color name="color_home_storage_theme_t7">#1ABCAA</color>
+    <color name="color_home_storage_theme_t8">#75BDF6</color>
+    <color name="color_home_storage_theme_t9">#FFA900</color>
+    <color name="color_home_storage_theme_t10">#FA333A</color>
+
+
+    <color name="color_home_storage_theme_b1">#F6F8FA</color>
+    <color name="color_home_storage_theme_b2">#FFFFFF</color>
+    <color name="color_home_storage_theme_b3">#FFFFFF</color>
+    <color name="color_home_storage_theme_b4">#99000000</color>
+    <color name="color_home_storage_theme_b5">#F6F8FA</color>
+
+
+    <color name="color_home_storage_theme_w1">#FF9E00</color>
+    <color name="color_home_storage_theme_w2">#FFC841</color>
+    <color name="color_home_storage_theme_w3">#FFF8EC</color>
+
+    <color name="color_home_storage_theme_s1">#1ABCAA</color>
+    <color name="color_home_storage_theme_s2">#F6FCFC</color>
+    <color name="color_home_storage_theme_d1">#FA333A</color>
+    <color name="color_home_storage_theme_d2">#FFF7F7</color>
+
+    <color name="color_home_storage_theme_k1">#46A4FC</color>
+    <color name="color_home_storage_theme_o1">#141E3D</color>
+    <color name="color_home_storage_theme_o2">#969CAD</color>
+    <color name="color_home_storage_theme_o3">#DCDFE5</color>
+
+    <color name="color_home_storage_theme_c1">#1ABCAA</color>
+    <color name="color_home_storage_theme_c2">#75BDF6</color>
+    <color name="color_home_storage_theme_c3">#FF9E00</color>
+    <color name="color_home_storage_theme_c4">#FFB91E</color>
+</resources>
